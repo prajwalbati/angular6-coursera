@@ -171,10 +171,10 @@
   dependencies:
     tslib "^1.9.0"
 
-"@angular/flex-layout@^6.0.0":
-  version "6.0.0-beta.15"
-  resolved "https://registry.yarnpkg.com/@angular/flex-layout/-/flex-layout-6.0.0-beta.15.tgz#9e85e9292286941973c7e6cdec02990d5fd6ec15"
-  integrity sha512-Tu3BMzxAJppLnHicII8gUS2dnkSfAEy5/rxI6eSo6CH9z5uz+h/Q2gj2j7V53y9IyqTgIugvKzPa9/3jB+R8/w==
+"@angular/flex-layout@^6.0.0-beta.15":
+  version "6.0.0-beta.18"
+  resolved "https://registry.yarnpkg.com/@angular/flex-layout/-/flex-layout-6.0.0-beta.18.tgz#fdf9d17a45989d0bf0dd1ad466eea503da618276"
+  integrity sha512-1Alv3YSIZYp0CTUIESIaSQLoSVyLzuNKPa5bGM/RzOmeSrndm5plVgI9wopGfJUDiwM18R97rq/4XjDvNT/+ig==
   dependencies:
     tslib "^1.7.1"
 
@@ -7713,9 +7713,9 @@ xxhashjs@^0.2.1:
     cuint "^0.2.2"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
-  integrity sha1-bRX7qITAhnnA136I53WegR4H+kE=
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
+  integrity sha512-uGZHXkHnhF0XeeAPgnKfPv1bgKAYyVvmNL1xlKsPYZPaIHxGti2hHqvOCQv71XMsLxu1QjergkqogUnms5D3YQ==
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"
